@@ -1,0 +1,17 @@
+p {
+  color: #0721e4;
+  font-style: italic;
+}
+body {
+  background-color: #db1464;
+}
+h1,h2,h3 {
+  color: #0dd335;
+  font-weight: bold;
+  font-family: Helvetica, sans-serif;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+}
